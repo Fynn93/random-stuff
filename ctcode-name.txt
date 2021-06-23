@@ -1,0 +1,109 @@
+#CT-CODE
+
+[RACING-TRACK-LIST]
+
+# enable support for LE-CODE flags
+%LE-FLAGS  = 1
+
+# auto insert a Wiimm cup (4 special random slots)
+%WIIMM-CUP = 0
+
+# standard setup
+N N$SWAP | N$F_WII
+
+C "Cheese"
+T RR  ; RR  ; 0x00  ; "mozzarella"; "Mozzarella Mountain"; "Mozzarella Mountain"
+T MG  ; MG  ; 0x00  ; "delight"; "Piece of Delight"; "Piece of Delight"
+T RR  ; RR  ; 0x00  ; "cheesebow"; "Cheesebow Road"; "Cheesebow Road"
+T nDKJP  ; nDKJP  ; 0x00  ; "mouse"; "Mouse Hole Mania"; "Mouse Hole Mania"
+
+C "Leaf"
+T MT  ; MT  ; 0x00  ; "skyway"; "Gold Leaf Skyway"; "Gold Leaf Skyway"
+T MT  ; MT  ; 0x00  ; "leafy_lake"; "Leafy Lake"; "Leafy Lake"
+T MT  ; MT  ; 0x00  ; "fall"; "The Remnants of a Lost Leaf Track"; "The Remnants of a Lost Leaf Track"
+T MT  ; MT  ; 0x00  ; "maple"; "Maple Realm"; "Maple Realm"
+
+C "Coin"
+T LC  ; MC  ; 0x00  ; "runner"; "Coin Runner Circuit"; "Coin Runner Circuit"
+T TF  ; TF  ; 0x00  ; "forgery"; "Toad's Forgery"; "Toad's Forgery"
+T RR  ; RR  ; 0x00  ; "coin_circuit"; "Coin Circuit"; "Coin Circuit"
+T MG  ; MG  ; 0x00  ; "heaven"; "Coin Heaven"; "Coin Heaven"
+
+C "sewer"
+T sGV2  ; sGV2  ; 0x00  ; "tunnels"; "Divine Tunnels"; "Divine Tunnels"
+T dDS  ; dDS  ; 0x00  ; "drains"; "Delfino Drains"; "Delfino Drains"
+T TF  ; TF  ; 0x00  ; "wasteway"; "Upstream Wasteway"; "Upstream Wasteway"
+T LC  ; LC  ; 0x00  ; "RAND"; "-"; "-"
+
+C "Tower"
+T MMM  ; MMM  ; 0x00  ; "t_ruins"; "Mossy Tower Ruins"; "Mossy Tower Ruins"
+T dDS  ; dDS  ; 0x00  ; "dusk"; "Dusk Tower Isles"; "Dusk Tower Isles"
+T dPG  ; dPG  ; 0x00  ; "medieval"; "Medieval Castlegrounds"; "Medieval Castlegrounds"
+T gPB  ; gPB  ; 0x00  ; "sandy"; "Sandy Citadel"; "Sandy Citadel"
+
+C "Shopping"
+T dDS  ; dDS  ; 0x00  ; "twin"; "Twin Market"; "Twin Market"
+T nMR  ; nMR  ; 0x00  ; "trek"; "Troy's Teespring Trek"; "Troy's Teespring Trek"
+T DC  ; DC  ; 0x00  ; "raceway"; "Wii Shop Raceway"; "Wii Shop Raceway"
+T MC  ; MC  ; 0x00  ; "gallery"; "Urban Gallery"; "Urban Gallery"
+
+C "Twilight"
+T RR  ; RR  ; 0x00  ; "crossover"; "Crepuscular Crossover"; "Crepuscular Crossover"
+T gWS  ; gWS  ; 0x00  ; "district"; "Dim District"; "Dim District"
+T nDKJP  ; nDKJP  ; 0x00  ; "t_jungle"; "Twilight Jungle"; "Twilight Jungle"
+T MH  ; DC  ; 0x00  ; "streets"; "Sundown Streets"; "Sundown Streets"
+
+C "Cave"
+T dYF  ; dYF  ; 0x00  ; "escapade"; "Cavern Escapade"; "Cavern Escapade"
+T GV  ; GV  ; 0x00  ; "grumble_c"; "Grumble Caves"; "Grumble Caves"
+T nDKJP  ; nDKJP  ; 0x00  ; "spelunker"; "Spelunker Sanctuary"; "Spelunker Sanctuary"
+T GV  ; GV  ; 0x00  ; "subterrane"; "Blazing Subterrane"; "Blazing Subterrane"
+
+C "Music"
+T gMC  ; gMC  ; 0x00  ; "speedway"; "Song Speedway"; "Song Speedway"
+T dPG  ; dPG  ; 0x00  ; "churches"; "Old Churches"; "Old Churches"
+T RR  ; RR  ; 0x00  ; "treble"; "Treble Clef Trek"; "Treble Clef Trek"
+T MG  ; MG  ; 0x00  ; "cliff"; "Musical Cliff"; "Musical Cliff"
+
+C "island"
+T nSL  ; nSL  ; 0x00  ; "carrington"; "Carrington Cove"; "Carrington Cove"
+T GV  ; GV  ; 0x00  ; "ring"; "Ring of Fire"; "Ring of Fire"
+T LC  ; LC  ; 0x00  ; "RAND"; "-"; "-"
+T LC  ; LC  ; 0x00  ; "RAND"; "-"; "-"
+
+C "Underwater"
+T DDR  ; DDR  ; 0x00  ; "w_ruins"; "Wet Wet Ruins"; "Wet Wet Ruins"
+T KC  ; KC  ; 0x00  ; "beach"; "Jungle Beach"; "Jungle Beach"
+T sMC3  ; sMC3  ; 0x00  ; "flooded_mc"; "Flooded Mario Circuit"; "Flooded Mario Circuit"
+T KC  ; KC  ; 0x00  ; "cavern"; "Drip-Drop Cavern"; "Drip-Drop Cavern"
+
+C "Magic"
+T LC  ; LC  ; 0x00  ; "fortress"; "Floating Fortress"; "Floating Fortress"
+T nBC  ; nBC  ; 0x00  ; "spires"; "Carpet Spires"; "Carpet Spires"
+T MT  ; MT  ; 0x00  ; "marsh"; "Mystical Marsh"; "Mystical Marsh"
+T MG  ; MG  ; 0x00  ; "magic"; "Forest of Magic"; "Forest of Magic"
+
+C "Paper"
+T LC  ; LC  ; 0x00  ; "ct0a"; "Karts & Crafts"; "Karts & Crafts"
+T LC  ; LC  ; 0x00  ; "ct0b"; "Paper Car & Bicycles"; "Paper Car & Bicycles"
+T LC  ; LC  ; 0x00  ; "ct0c"; "Vellumental Trail"; "Vellumental Trail"
+T LC  ; LC  ; 0x00  ; "ct0d"; "Papyrophobia"; "Papyrophobia"
+ 
+C "Halloween + Ruins"
+T sGV2  ; sGV2  ; 0x00  ; "ct1a"; "CT Cemetery"; "CT Cemetery"
+T sGV2  ; sGV2  ; 0x00  ; "ct1b"; "Haunted Library"; "Haunted Library"
+T sGV2  ; sGV2  ; 0x00  ; "ct1c"; "Wicked Woods"; "Wicked Woods"
+T LC  ; LC  ; 0x00  ; "ct1d"; "Nameless Track"; "Nameless Track"
+
+C "Technology"
+T RR  ; RR  ; 0x00  ; "ct2a"; "Wario's Cosmic Construction"; "Wario's Cosmic Construction"
+T RR  ; RR  ; 0x00  ; "ct2b"; "Orbital Outpost"; "Orbital Outpost"
+T RR  ; RR  ; 0x00  ; "ct2c"; "Adrastea Station"; "Adrastea Station"
+T LC  ; LC  ; 0x00  ; "RAND"; "-"; "-"
+
+C "Holiday + Leaf"
+T MT  ; MT  ; 0x00  ; "ct3a"; "Solstice Tundra"; "Solstice Tundra"
+T MT  ; MT  ; 0x00  ; "ct3b"; "The Grand Oak"; "The Grand Oak"
+T RR  ; RR  ; 0x00  ; "ct3c"; "Boggly Woods"; "Boggly Woods"
+T LC  ; LC  ; 0x00  ; "RAND"; "-"; "-"
+
