@@ -1,0 +1,280 @@
+23 Lavaflow V v1.0-quarantine (volcano_course).szs
+39Days_RC1.szs
+3DS Cheep Cheep Lagoon RC1 (Wexos & Crile) [r32].szs
+3DS Mario Circuit [wg93589 and Atlas] v0.7 (castle_course).szs
+3DS Music Park.szs
+3DS Piranha Plant Slide [Super blooper kirio] v2.1 (water_course).szs
+3DS Rock Rock Mountain.szs
+3DS Rosalinas Ice World.szs
+3DS Wuhu Loop.szs
+4IT Clown's Road v1.2 (4IT?Lecce+4IT?Clown) [r82,ZPL].szs
+4IT-Lecce Circuit v1.5 (castle_course).szs
+79T_Space_Road_v0.79_rainbow_course.szs
+8-Bit Road v1.2 (beginner_course / block_battle).szs
+8-Bit Way.szs
+8n_Infinite_Race_v1_altBulzeeb_Huili.szs
+Abandoned Boardwalk.szs
+Abandoned Pier RC2.szs
+Abandoned_Bazaar_old_koopa_64.szs
+Abandoned_Desert_Beta_5_desert_course.szs
+Abandoned_Pipeyard_v1.0_koopa_course.szs
+Abe_Abbott_Raceway_RC4_beginner_course.szs
+Abyssal Ruins.szs
+Academic Raceway.szs
+Acaias_Rainbow_Road_v1.1_4IT-Lecce_Huili.szs
+Acaia_s_Village_v2.3-3lap_castle_course.szs
+Acid Factory.szs
+AcidityIsland_RC1.szs
+Acid_Terrene_v1.1_old_mario_sfc.szs
+ADriveThroughMiniville_v1.1.szs
+Akina Pass.szs
+Alatric Terretory.szs
+Alpha Desert Valley [ALPHAMARIOX and 4TLPati] RC1 (desert_course).szs
+Alpha_Boost_Road_v1.1c_castle_course.szs
+Alphina.szs
+Alpine Circuit [Black Rose 67] RC3 (boardcross_course).szs
+Alpine Mountain v1.1 (old_donkey_gc).szs
+Alpine Peak.szs
+Alpine Skyway.szs
+Alternative N64 Bowsers Castle.szs
+Ancient Ruins.szs
+Anthro Valley Beta 3.1 (beginner_course).szs
+Aperture Laboratories v1.3 (factory_course).szs
+Aperture_Laboratories.szs
+Aqua City Beta (water_course).szs
+Aqua Temple v1.1 (factory_course).szs
+Aquadrom Stage v3.3 (SpyKid,Sniki) [51].szs
+Aquania_v1.21_SpyKid_32.szs
+Aquatic Rainbow by ChrisDark64.szs
+Aquatropolis_v1.1.le.szs
+Arctic_Chill_v1.1_old_sherbet_64.szs
+Aspertia City.szs
+Autumn Leavesway v2.1 (SpyKid) [r33,Wiimm].szs
+A_Small_Course_Beta_4-hotfix_old_falls_ds.szs
+Beach_Gardens_RC4a_igorseabra4_Skipper93653.szs
+BeaglePlains(RC3).szs
+Beyond_the_Course.szs
+Bigcube Island v1.2.szs
+Birdo_Island.szs
+Black_Loop_v3.szs
+Block's Castle RC2 (old_koopa_gba).szs
+Boshi Skatepark.szs
+Bouncy_Farm_v2.2_4TLPati_Huili.szs
+Bowser Circuit v1.2+ (old_waluigi_gc).szs
+bowsers_lava_lair_v1.7.szs
+Calidae Desert RC6 (desert_course).szs
+Camp_Kartigan_v1.1_(MrFluffy).szs
+Candy Mountains v1.0 (treehouse_course).szs
+Castle of Darkness v2.22.szs
+Castle of Time v2.11.szs
+Chaotic Circle RC3 (truck_course).szs
+Cherry Blossom Garden.szs
+Chill Hill v1.0 (boardcross_course).szs
+Chomp Valley v1.6.2.szs
+Chomp Valley [MrBean35000vr and Chadderz] RC2 (old_garden_ds).szs
+Christmas Dream [iNelom] v1.1 (boardcross_course).szs
+Cityside_Nature_Beta2.4-day.szs
+CoastalPathway.szs
+Coin_Heaven_1.01-kinoko_course.szs
+Concord Town v4.0.1 (old_town_ds).szs
+Coral Cape v2.1 (water_course).szs
+Daisy Gardens.szs
+Delfino Bay v1.2c (old_town_ds).szs
+Delfino Streets.szs
+Desert Creek.szs
+Desert Cross.szs
+Desert Fort v3.0a.szs
+Diddy Interstate v1.1.szs
+Digitally Enhanced v1.1 (Guilmon,Wiimm).szs
+Dim_Dungeon_v1.2_old_koopa_64.szs
+Divine Paradise.szs
+DK Jungle Run.szs
+DK_Jungle_Tour_II_RC1.4.szs
+Dolphin_Shoals_v1.1_(MrFluffy).szs
+Dreamworld Cloudway v2.3 (rainbow_course).szs
+Drift Brake Circuit.szs
+Dry Coast [Putinas] v2.1 (old_desert_ds).szs
+Dry Dry Ruins Giant Objects Mode.szs
+Dry_Dry_Temple_v1c_Rukasudo90_Huili.szs
+DS Airship Fortress [Sniki] v1.5 (koopa_course).szs
+DS Bowser Castle [Wexos] v1.0 (old_koopa_64).szs
+DS DK Pass.szs
+DS Dokan Course MKDasher RC3.szs
+DS Luigi's Mansion v1.2 (Tock).szs
+DS Tick Tock Clock [Rukasudo90 and burikillo] RC3 (beginner_course).szs
+DS_Mario_Circuit_(ZillaSpaz)_v2.szs
+DS_Tick-Tock_Clock_Beta2_maczkopeti_r31.szs
+Ember Island.szs
+Exiled Campsite.szs
+F-Zero Port Town v1.1 (NinYoda1, Huili).szs
+Faraway Land.szs
+Fireway_v1.4.szs
+Forest Island.szs
+FZMV Cloud Carpet [Scye] v1.2 (old_mario_sfc).szs
+FZMV_Cloud_Carpet_v1.1a_YoshiGo99_r81.szs
+Garden Path v1.4 [3 Laps] (old_garden_ds).szs
+GBA Bowser Castle 4 v2.1 (Dudes).szs
+GBA Cheep Cheep Island.szs
+GBA Cheeseland.szs
+GBA Peach Circuit [NiAlBlack] v1.1 (old_mario_64).szs
+GBA Rainbow Road v1.2 (NiAlBlack,maczkopeti) [r44].szs
+GBA Snow Land [SuperMario64DS] v1.3 (old_sherbet_64).szs
+GBA Yoshi Desert.szs
+GBA-Yoshi-Desert-RC3_(old_desert_ds).szs
+GCN Baby Park.szs
+GCN Boost Mountain.szs
+GCN Daisy Cruiser [MKDasher] v2.1 [Regular Yellow Water] (senior_course).szs
+GCN Rainbow Road [Caron] v1.3 (rainbow_course)].szs
+GCN Sherbet Land v4.1 (Tock) [61,xpf,objflow,geohit,Wiimm].szs
+GCN Wario Colosseum.szs
+GCN Yoshi Circuit.szs
+Ghost_Valley_6_v1.2.szs
+GK2 Rainbow Shortroad v1.0 (rainbow_course).szs
+GK3 Koopa Castle 1 v2.0 (old_koopa_gba).szs
+GK7 Dry Bones Circuit.szs
+Glacial Bay v2.0 (old_sherbet_64).szs
+Glacial Pics v4.5 (boardcross_course).szs
+Glimmer Express Trains v1.3 (truck_course).szs
+Goldwood_Forest_RC2.1.szs
+GP Diamond City v1.2 (shopping_course).szs
+Grass_Forest_v1.1_NikoPlays.szs
+Green Park v2.8b (old_garden_ds).szs
+Green_Hill_Zone_RC6.szs
+Halloween_Land_v2.1_Super-Daisy55_Huili.szs
+Heart of China 2.0.3.szs
+Heart Track.szs
+Hedge Shed Garden.szs
+Hell Pyramid v1.1 (volcano_course).szs
+Honeybee_Hideout_v1.3.1_treehouse_course.szs
+Horror Mansion.szs
+Iceway v5.4b.jhfr (boardcross_course).szs
+Jack-o-Goomba Boardwalk.szs
+Jungle Jamble.szs
+Kinoko_Valley_v5.2.szs
+Knog Cave.szs
+Koopa_Beach_5_v1.1b-hotfix.szs
+LakeBridgev2.2Cams.szs
+Lava Road.szs
+Lava_Castle_Road_RC2.4_NinYoda1_Huili.szs
+Lecces_Classic_Road_3.2.szs
+Little Jungle v2.1 (old_donkey_64).szs
+Lost Fortress.szs
+Luigis Island.szs
+Luna City v1.6b (ridgehighway_course).szs
+Magnetic City RC5.2 (castle_course).szs
+Melting_Magma_Melee_v1.6.szs
+Minecraft Kart.szs
+Misty Ruins v1.3.szs
+Moi's Airport v1.1 (shopping_course).szs
+molten_mountainway_v3.2.5s.szs
+Monkey Ball 2 Lovely Heart Ring V2.szs
+Moonlight Downtown Beta 4 (old_town_ds).szs
+Mountain Town(kinoko_course).szs
+Mountain.szs
+Mushroom Mountain Oasis [BillyNoodles] v1.0 (kinoko_course).szs
+Mushroom Peaks RC6.szs
+Mushroom_Fort_RC4.01.szs
+Mushroom_Mountain_v1.1(kinoko_course).szs
+Mushroom_Parkway_v1.2_3laps.szs
+Mystery_Valley.szs
+N64 Frappe Snowland Beta (FunkyDude15) [r23,m61].szs
+N64 Kalimari Desert.szs
+N64 Rainbow Road.szs
+N64 Toads Turnpike.szs
+N64 Yoshi Valley Beta3.1 (zilly,Trainiax) [r52] (1).szs
+N64 Yoshi Valley Beta3.1 (zilly,Trainiax) [r52].szs
+n64_Choco_Mountain_v1.0-old_donkey_gc.szs
+N64_Rainbow_Road_-_Skipper.szs
+Neo Blackout Road v1.1 (old_obake_sfc).szs
+Nighmare to Dreamworld.szs
+Night Factory.szs
+Night Mountain v2.0 [3 Laps] (old_donkey_gc).szs
+Night_Desert_RC1.5.szs
+NorthPole Slide RC3 (Original Skybox).szs
+Nostalgic Bowser's Castle v3.1 (old_koopa_64).szs
+ONI Training Place v1.0 (koopa_course).szs
+Overnight_Road_v2.3_rainbow_course.szs
+Penguin Circuit 3 v1.0 (senior_course).szs
+Pillarstone Raceway Beta 2.1 (TokukuMKW).szs
+Pipeline_Speedway_RC3_old_mario_sfc.szs
+Poison Mushroom Cave.szs
+Polar_Park_boardcross_course.szs
+Proxmia Road RC6 (rainbow_course).szs
+Punch_City_II_v2.16.szs
+purple_peaks_beta_3.szs
+Quag Circuit v1.1 (beginner_course).szs
+Quaking_Mad_Cliffs_v1.0_(MrFluffy).szs
+Rainbow Mountain Fortress.szs
+Rainbow Rollercoaster v1.0 (rainbow_course).szs
+Refresh Road v2.2 (water_course).szs
+Rempart Road RC3.2 (desert_course).szs
+River of Dreams.szs
+Riverside_City_(old_mario_sfc).szs
+Riverview_Square_v1.3_Florian4TLPatiSniki_Huili.szs
+RMX Choco Island 1 v1.4 (old_donkey_64 or old_donkey_gc).szs
+RMX Rainbow Road 1 (Noia and Toxic Prime).szs
+RollingGizmoRaceway_v1.0.szs
+Rooftop_Raceway_v1_Beta_5.szs
+Rooster Island v1.3 (old_peach_gc).szs
+Ruin Labyrinth RC3 (desert_course).szs
+Rush_City_Run_Beta_5.szs
+Sahara hideout.szs
+Sarasa Kingdom.szs
+Seaside Resort v1.5.szs
+Shell Speedway.szs
+Sherbet Ocean v1.3 (old_sherbet_64).szs
+Shiver Lake.szs
+SH_Grand_Metropolis_v1.1_igorseabra4_Huili.szs
+Simple Circle v1.2 (Fynn93,Trainiax) [r11,lex].szs
+Sinister_Vault_v1.11_SpyKidAmk528_53.szs
+Six King Labyrinth v1.3 (rainbow_course).szs
+Skylane_RC2.szs
+Skyscraper Sewerway Beta 4 (beginner_course).szs
+Sledge_Circuit_v1.3_Sawyer7_r118laps_1.szs
+Small but Tall Factory.szs
+sms_delfino_plaza_alpha_2.0.szs
+SNES Bowser Castle 3 [Rukasudo90 and WhiteMEX] Beta 2 (old_koopa_gba).szs
+SNES Bowsers Castle 1.szs
+SNES Ghost Valley 3 v1.0+ (Omonimo747,Wiimm) [r53].szs
+SNES Koopa Beach 1 [AndyK] v1.0 (old_peach_gc).szs
+SNES Rainbow Road [xBlue98] v1.2.2 (rainbow_course).szs
+SNES_Bowser_Castle_2_v1.92_[MKDasher]_(old_koopa_gba).szs
+SNES_Donut_Plains_3_-_Yoshidude4.szs
+SNES_Vanilla_Lake_1_-_James.szs
+SNES_Vanilla_Lake_2_-_likesorange.szs
+Snowland Freeze.szs
+Snowy Circuit.szs
+Snowy_Mushroom_Gorge_Fynn93.szs
+Space Island Beta 3+ (old_donkey_gc).szs
+Square Circuit DX v1.7.szs
+Star Slope.szs
+Stone Route v1.2 (YellowYoshi, Wiimm).szs
+Strange Land v1.2 (Wexos) [r21].szs
+Summer Starville v2.1 (SpyKid,ZPL) [r42,m63].szs
+Sundown Streets v1.02 (SpyKid) [r42,m31].szs
+Sunset Circuit 2 v2.1.szs
+Sunset_Rocks_v2.2a.szs
+SuperBellCircuit-v1.beta-2_(old_mario_64).szs
+Thwomp Desert RC2 (old_desert_ds).szs
+Tim's Weird World v1.0b (SpyKid) [21].szs
+Toad Station.szs
+Toxic Forest.szs
+Toxic Tunnel.szs
+Tropical Island v2.5a (JerryMKW) [r51,Skipper93653].szs
+Underground_Mine_Beta_2Thed0ra7z_Huili.szs
+Underground_Ruins_V1.13.szs
+Undiscovered Offlimit.szs
+Volcanic_Loop RC2 (volcano_course).szs
+Volcano Bay v1.2.szs
+W92xD River Path.szs
+Waluigis Motorcross.szs
+Water Village (Bear).szs
+Water Village [MrRean] RC4 (old_town_ds).szs
+Waterslide.szs
+Water_Tower_v1.1_Flohrian_Huili.szs
+Wavy_Road.szs
+Wet Grass Tundra.szs
+Wetland Woods.szs
+Wiimmfi Station v1 (Sniki) [r14].szs
+WiiU_Excitebike_Arena_RC3_NinYoda1_Huili.szs
+Zelda_TP_Kakariko_Village_RC1.szs
